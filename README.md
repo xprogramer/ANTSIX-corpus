@@ -9,3 +9,4 @@ K. Abainia, S. Ouamour and H. Sayoud, "Topic Identification of Arabic Noisy Text
 
 K. Abainia, S. Ouamour and H. Sayoud, "Topic Identification of Noisy Arabic Texts Using Graph Approaches", International Workshop on Text-based Information Retrieval TIR’15, pp. 254-258.
 
+K. Abainia, "Topic Identification of Noisy Texts: Statistical Approaches", International Journal of Hidden Data Mining and Scientific Knowledge Discovery, Vol. 01, No. 01, pp. 2-8.
