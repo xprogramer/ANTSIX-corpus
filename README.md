@@ -5,7 +5,9 @@ For more details, I recommand you to read the ATNSIX.pdf file.
 
 This corpus is used to evaluation the proposed algorithms in the following articles:
 
-K. Abainia, S. Ouamour and H. Sayoud, "Topic Identification of Arabic Noisy Texts Based on KNN", International Conference on Information and Communication Technology Research, pp 89-92.
+K. Abainia, S. Ouamour and H. Sayoud, "A novel robust Arabic light stemmer", Journal of Experimental & Theoretical Artificial Intelligence, Vol. 29, No. 3, pp. 557-573.
+
+K. Abainia, S. Ouamour and H. Sayoud, "Topic Identification of Arabic Noisy Texts Based on KNN", International Conference on Information and Communication Technology Research, pp. 89-92.
 
 K. Abainia, S. Ouamour and H. Sayoud, "Topic Identification of Noisy Arabic Texts Using Graph Approaches", International Workshop on Text-based Information Retrieval TIR’15, pp. 254-258.
 
